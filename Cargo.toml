@@ -27,7 +27,7 @@ bleps = { git = "https://github.com/bjoernQ/bleps", package = "bleps", rev = "a5
 ] }
 critical-section = "1.2.0"
 embedded-io = { version = "0.7.1", features = ["defmt"] }
-esp-alloc = { version = "0.10.0", features = ["defmt"] }
+esp-alloc = { version = "0.11.0", features = ["defmt"] }
 esp-radio = { version = "0.18.0", features = [
   "ble",
   "defmt",
